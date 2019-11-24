@@ -1,5 +1,7 @@
 # インストール手順
 
+hugoのインストールなどのテスト
+
 ## Hugoのインストール(WSL)
 
 aptだと古い
@@ -39,7 +41,7 @@ $ sed -i -e 's/"en-us"/"ja"/g' config.toml
 $ hugo -DEFw server
 ```
 
-ブラウザで"http://localhost:1313/"を開く
+ブラウザで"http://localhost:1313/"を開く  
 ^C
 
 # 新規記事
