@@ -74,3 +74,12 @@ $ hugo
 ```
 $ git submodule foreach git pull
 ```
+
+# GitHubで監理
+
+GitHubにリポジトリ作成
+
+```
+$ git remote add origin git@github.com:marony/hugo_test.git
+$ git push -u origin master
+```
